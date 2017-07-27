@@ -1,0 +1,18 @@
+body, div,h1,p,ul,li
+{
+	font-size: 24 px;
+	line-height: 12 px
+	color:blue;
+	margin:0;
+	padding:0;
+	border: 0;
+
+}
+
+#container
+{
+	float:left;
+	width: 33.3%
+	color: #fff;
+}
+
